@@ -1,0 +1,9 @@
+Package: com.qn.healthdbfix
+Name: HealthDBFix
+Depends: mobilesubstrate, firmware (>= 15.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Stop healthd crash-looping on unknown HealthKit data type codes synced from Apple Watch.
+Maintainer: Qn <qnblackcat@gmail.com>
+Author: Qn <qnblackcat@gmail.com>
+Section: Tweaks
