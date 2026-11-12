@@ -1,0 +1,5 @@
+#!/bin/sh
+case "$1" in
+	remove|purge) killall healthd 2>/dev/null ;;
+esac
+exit 0

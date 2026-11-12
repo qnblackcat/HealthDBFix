@@ -1,0 +1,3 @@
+#!/bin/sh
+killall healthd 2>/dev/null
+exit 0
